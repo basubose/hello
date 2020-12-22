@@ -1,0 +1,54 @@
+   *{
+                padding: 0px;
+                margin: 0px;
+                outline: 0px;
+            }
+            body{
+                font-size: 15px;
+            }
+            .template{
+                width:960px;
+                margin: 0px auto;
+            }
+            .header{ height: 80px;
+            background: #000;
+            color: #FFF;}
+            .navigation{
+                height: 40px;
+            background: #FAB;
+            color: #FFF;
+            }
+            .contentsection{
+                color: #FFF;
+              
+}
+            .mainsection{
+                width: 500px;
+                float: left;
+                padding: 10px;
+                 margin:10px;
+                margin-left: 0px;
+                background: #9ba1b2;
+          
+            }
+            .sidesection{
+              
+                width: 400px;
+                 padding: 10px;
+               margin-top: 10px;
+               
+                  float: right;
+            background: #decd83;}
+            .footersection{
+                height: 80px;
+                background: #83decd;
+                
+}
+.footersection h1{
+    color:#FFF;
+    text-align: center;
+    padding-top: 20px;
+}
+        </style>
+    </head>
+    <body>
